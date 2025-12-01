@@ -29,6 +29,6 @@ Struktur Repository
 - case_study-analyzing-job-market-data. Folder dataset
 
 Manfaat
-- Anda bisa melihat skill yang paling dicari.
-- Anda bisa menilai rentang gaji berdasarkan peran.
-- Anda bisa mengetahui perusahaan yang aktif merekrut.
+- Bisa melihat skill yang paling dicari.
+- Bisa menilai rentang gaji berdasarkan peran.
+- Bisa mengetahui perusahaan yang aktif merekrut.
